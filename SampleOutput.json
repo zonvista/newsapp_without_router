@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jonathan Steinmetz",
+            "title": "‘Dumbest waste of time I’ve ever seen in my life’: Carville weighs in on Louisiana 10 Commandments law | CNN Politics",
+            "description": "CNN’s Anderson Cooper talks with political analysts James Carville and Scott Jennings about Louisiana public schools that are now required to display the Ten Commandments in all classrooms, after Republican Gov. Jeff Landry signed the requirement into law.",
+            "url": "https://www.cnn.com/2024/06/19/politics/video/louisiana-ten-commandments-classroom-display-carville-jennings-ac360-digvid",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20240619-splits-full16x9.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-06-20T01:39:41.851Z",
+            "content": "CNN's Anderson Cooper talks with political analysts James Carville and Scott Jennings about Louisiana public schools that are now required to display the Ten Commandments in all classrooms, after Rep… [+56 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Juliette Bahramand",
+            "title": "Ex-Biden official responds to Lindsey Graham calling Biden a felon | CNN Politics",
+            "description": "Former Biden White House communications official Meghan Hays responds to Sen. Lindsey Graham (R-SC) calling Biden a felon.",
+            "url": "https://www.cnn.com/2024/06/19/politics/video/lindsey-graham-biden-felon-southern-border-hays-digvid",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2149863762.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-06-20T00:42:20.968Z",
+            "content": "Former Biden White House communications official Meghan Hays responds to Sen. Lindsey Graham (R-SC) calling Biden a felon."
+        },
+        {
+            "source": {
+                "id": "the-american-conservative",
+                "name": "The American Conservative"
+            },
+            "author": null,
+            "title": "Politics Archives - The American Conservative",
+            "description": null,
+            "url": "https://www.theamericanconservative.com/category/politics/",
+            "urlToImage": null,
+            "publishedAt": "2022-07-07T21:37:27.3936289Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": null,
+            "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+            "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+            "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+            "publishedAt": "2019-11-13T04:41:00Z",
+            "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+        }
+    ]
+}
